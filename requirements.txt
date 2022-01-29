@@ -1,0 +1,6 @@
+Knihovna request, verze 2.25.1.
+Knihovna csv, verze 3.6.0.
+Knihovna bs4, verze 4.10.0.
+Knihovna sys, verze 3.6.0.
+Knihovna os, verze 3.6.0.
+Knihovna pandas, verze 3.6.0.
