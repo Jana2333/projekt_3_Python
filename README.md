@@ -1,2 +1,2 @@
 # projekt_3_Python
-Zkouska textu
+Pro spusteni kodu je nejprve treba nainstalovat knihovnu requests a bs4
